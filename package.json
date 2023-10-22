@@ -1,6 +1,6 @@
 {
   "name": "ds3-farm-embers",
-  "version": "0.0.1",
+  "version": "1.0",
   "description": "Farming Embers in Dark Souls III",
   "main": "index.js",
   "scripts": {
